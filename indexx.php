@@ -20,7 +20,7 @@
         Author Address<br/>
         <input type="text" name="address" id="address"><br/><br/>
         Author Date of Birth<br/>
-        <input type="date" name="DOB" id="DOB"><br/><br/>
+        <input type="date" name="DOB" id="dob"><br/><br/>
         Author Biography<br/>
         <textarea placeholder="Write Biography here" name="biography" id="biography" rows="8"gti cols="80"></textarea><br/>
         Author Suspended<br/>
